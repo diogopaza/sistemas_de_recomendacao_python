@@ -1,6 +1,7 @@
 <h1>Sistemas de Recomendação com Python</h1>
 <p>Exitem dois tipos de classificação de sistemas de recomendação, Recomendação
 baseada em conteúdo e Filtragem Colaborativa.</p>
+<p>E também existem mas recomendações híbridas que como o nome demostra combina os dois tipos de informações</p>
 <p>Um sistema de recomendação é o "vendedor experiente" que conhece seus clientes
 e sabe do que cada um pode gostar.</p>
 <h2>Filtragem colaborativa</h2>
