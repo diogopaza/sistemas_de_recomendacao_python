@@ -24,4 +24,12 @@ for item in avaliacoes['Ana']:
     if item in avaliacoes['Marcos']:
         print('ok')
 """
-print( distancia_euclidiana("Ana","Leonardo"))
+#print( distancia_euclidiana("Ana","Leonardo"))
+
+def get_similaridade(user):
+    similaridade = [ (distancia_euclidiana(user, outro), outro )
+                         for outro in avaliacoes if outro !=user ]
+    return similaridade
+
+get_similaridade('Ana')
+#distancia_euclidiana("Ana","Leonardo")
