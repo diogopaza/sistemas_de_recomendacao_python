@@ -16,3 +16,7 @@ e sabe do que cada um pode gostar.</p>
 
 
 <h3>Módulo busca por usuários similares</h3>
+<h3>Gráfico de dispersão dos usuários por filmes</h3>
+<p>Mede o quão disperso um usuário esta do outro.</p>
+<h3>Distância Euclidiana</h3>
+<p></p>
