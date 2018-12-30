@@ -9,5 +9,10 @@ e sabe do que cada um pode gostar.</p>
 <p>Prever o grau de interesse sobre um item baseado nas avaliações feitas por esse cliente e as avaliações feitas por outros clientes com perfil semelhante. Isso é uma filtragem colaborativa, você tem uma troca de experencia entre perfis comuns.</p>
 <p>Python tem muitas bibliotecas na área de inteligência artificial.</p>
 <p></p>
+<h2>Filtragem baseada em conteúdo</h2>
+<p>Neste tipo o sistema recomenda ao usuário itens similares á aqueles que ele tenha gostado( interagido, comprado,visualizado ).</p>
+<p>Há dois tipos de classificação de Filtragem Baseada em conteúdo:</p>
+<p><strong>Explícita, quando o usuário intencionalmente informa ao sistema se ele gosta ou não de determinado item. Esta informação pode ser obtida através de um like de um clique. Implícita: aqui entra as informações como "itens visualizados", "itens adquiridos". Esse tipo de filtragem baseada em conteúdo trabalha apenas com iterações passadas do usuário em questão, não leva em consideração outros usuários.</strong></p>
+
 
 <h3>Módulo busca por usuários similares</h3>
