@@ -48,5 +48,5 @@ avaliacoes = {'Ana':
 	     'Exterminador do Futuro':4.0},
           'Diogo':
               {
-                  'O matador':5},
+                  'Exterminador do Futuro':1.0},
 }
